@@ -1,5 +1,5 @@
 # NPP
-NIRYO Pick and Place
+NIRYO Pick & Place
 
 Résumé:
 Reconnaissance, préhension et déplacement d'une pièce par le bras robotisé NIRYO choisie par l'utilisateur depuis une interface
