@@ -40,4 +40,11 @@ Spécifications technique :
         
 
 
-Les contraintes : 
+    Déjà fait : 
+            Expliciter et mettre en forme nos attentes
+            Formulation du nom du projet
+            Définition des missions du robot
+            Définition des besoins matériels
+            Réalisation d'une bete à corne et d'un diragramme pieuvre 
+            
+            
