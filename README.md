@@ -14,7 +14,7 @@ Thomas COSTA - MT4
 Riwan D'HERVAIS - MT4
 
 Spécifications technique :
-1 x Bras NYRIO (avec une pince pour prendre les objets)
+1 x Bras NYRIO (avec une pince pour prendre les objets)\n
 1 x Caméra
 1 x Support pour le bras
 1 x Poignet avec support caméra
