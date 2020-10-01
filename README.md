@@ -1,17 +1,17 @@
 # NP&P
 NIRYO Pick & Place
 
-Résumé:
-Reconnaissance, préhension et déplacement d'une pièce, par le bras robotisé NIRYO, choisie par l'utilisateur depuis une interface
+    Résumé:
+    Reconnaissance, préhension et déplacement d'une pièce, par le bras robotisé NIRYO, choisie par l'utilisateur depuis une interface
 
-    Participants : 
-    Jason CHAZELAS - SEE4
-    Samuel GUIRLET - SEE4
-    Audric Moussaoui - MT4
-    Thomas LEMAIRE - SEE4
-    Pierre Bouillot - MT4
-    Thomas COSTA - MT4
-    Riwan D'HERVAIS - MT4
+Participants : 
+Jason CHAZELAS - SEE4
+Samuel GUIRLET - SEE4
+Audric Moussaoui - MT4
+Thomas LEMAIRE - SEE4
+Pierre Bouillot - MT4
+Thomas COSTA - MT4
+Riwan D'HERVAIS - MT4
 
     Spécifications technique :
     Matériel à utiliser 
@@ -40,11 +40,11 @@ Reconnaissance, préhension et déplacement d'une pièce, par le bras robotisé 
         
 
 
-    Déjà fait : 
-            Expliciter et mettre en forme nos attentes
-            Formulation du nom du projet
-            Définition des missions du robot
-            Définition des besoins matériels
-            Réalisation d'une bete à corne et d'un diragramme pieuvre 
-            
+Déjà fait : 
+        Expliciter et mettre en forme nos attentes
+        Formulation du nom du projet
+        Définition des missions du robot
+        Définition des besoins matériels
+        Réalisation d'une bete à corne et d'un diragramme pieuvre 
+
             
