@@ -4,16 +4,16 @@ NIRYO Pick & Place
 Résumé:
 Reconnaissance, préhension et déplacement d'une pièce, par le bras robotisé NIRYO, choisie par l'utilisateur depuis une interface
 
-Participants : 
-Jason CHAZELAS - SEE4
-Samuel GUIRLET - SEE4
-Audric Moussaoui - MT4
-Thomas LEMAIRE - SEE4
-Pierre Bouillot - MT4
-Thomas COSTA - MT4
-Riwan D'HERVAIS - MT4
+    Participants : 
+    Jason CHAZELAS - SEE4
+    Samuel GUIRLET - SEE4
+    Audric Moussaoui - MT4
+    Thomas LEMAIRE - SEE4
+    Pierre Bouillot - MT4
+    Thomas COSTA - MT4
+    Riwan D'HERVAIS - MT4
 
-Spécifications technique :
+    Spécifications technique :
     Matériel à utiliser 
         1 x Bras NYRIO (avec une pince pour prendre les objets - grppier large)
         1 x Support pour le bras
