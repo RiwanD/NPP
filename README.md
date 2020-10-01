@@ -17,7 +17,7 @@ Riwan D'HERVAIS - MT4
     Matériel à utiliser 
         1 x Bras NYRIO (avec une pince pour prendre les objets - grppier large)
         1 x Support pour le bras
-        1 x Caméra
+        1 x Caméra : RGB-D D435
         1 x Poignet avec support caméra
         1 x Câble USB
         1 x Raspberry Pi (si non compris avec le bras)
