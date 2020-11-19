@@ -1,0 +1,3 @@
+/home/asiatikunik/Bureau/Projet Niryo/build/CMakeFiles/rebuild_cache.dir
+/home/asiatikunik/Bureau/Projet Niryo/build/CMakeFiles/edit_cache.dir
+/home/asiatikunik/Bureau/Projet Niryo/build/CMakeFiles/range_image_border_extraction.dir
