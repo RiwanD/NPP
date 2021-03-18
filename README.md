@@ -13,6 +13,8 @@ Pierre Bouillot - MT4
 Thomas COSTA - MT4
 Riwan D'HERVAIS - MT4
 
+Toutes les tâches seront implémentées grâce à ROS
+
     Spécifications technique :
     Matériel à utiliser 
         1 x Bras NYRIO (avec une pince pour prendre les objets - grppier large)
@@ -39,7 +41,6 @@ Riwan D'HERVAIS - MT4
             Associer l'interface à la bibliothèque
         
 
-
 Déjà fait : 
         Expliciter et mettre en forme nos attentes
         Formulation du nom du projet
@@ -47,4 +48,11 @@ Déjà fait :
         Définition des besoins matériels
         Réalisation d'une bete à corne et d'un diragramme pieuvre 
 
-            
+
+Jason CHAZELAS - Simulation du Nyrio avec ROS 
+Samuel GUIRLET - Lier la caméra avec ROS
+Audric Moussaoui - Interface d'utilisation du robot
+Thomas LEMAIRE - Vision avec la caméra et ROS
+Pierre Bouillot - Interfacer toutes les composantes avec ROS
+Thomas COSTA - Interfacer toutes les composantes avec ROS
+Riwan D'HERVAIS - Interfacer toutes les composantes avec ROS
