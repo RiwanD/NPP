@@ -1,0 +1,23 @@
+Installation de l'environnement permettant de manipuler le NIRYO et toutes les composantes présentées dans le docuement résumant le projet :
+
+Etape 1: Installation de la VM avec ROS Kinetic
+https://downloads.ubiquityrobotics.com/vm.html
+
+Etape 2: Mise à jour de la clé publique ROS:
+http://wiki.ros.org/kinetic/Installation/Ubuntu#Installation.2FUbuntu.2FSources.Set_up_your_keys
+
+Etape 3: Installation du package permettant de lier la caméra REALSENSE D435:
+https://github.com/IntelRealSense/realsense-ros#installation-instructions
+
+Etape 4: Installation de la librairie NIRYO sur la VM:
+https://niryo.com/download/
+
+Etape 5 : Installation du package pour lire un USB 3.0:
+"VirtualBox 6.1.18 Oracle VM VirtualBox Extension Pack"
+https://www.virtualbox.org/wiki/Downloads
+
+Etape 6 : Compilation du fichier permettant de lire la caméra correctement:
+Le fichier à compiler sur la MV : "99-realsense-libusb.rules" disponible ici : https://github.com/IntelRealSense/librealsense/tree/master/config
+Le plus simple est de copier le code du fichier, de le coller dans un nouveau fichier et de le compiler avec la MV.
+Enfin, copier le fichier au bon emplacement : sudo cp 99-realsense-libusb.rules /etc/udev/rules.d
+
