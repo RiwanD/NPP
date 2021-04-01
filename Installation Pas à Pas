@@ -21,3 +21,15 @@ Le fichier à compiler sur la MV : "99-realsense-libusb.rules" disponible ici : 
 Le plus simple est de copier le code du fichier, de le coller dans un nouveau fichier et de le compiler avec la MV.
 Enfin, copier le fichier au bon emplacement : sudo cp 99-realsense-libusb.rules /etc/udev/rules.d
 
+-- Lancer la commande dans le sudo echo "source /opt/ros/kinetic/setup.bash" >> .bashrc dans chaque terminal au début--
+Etape 7 : Lancement de ROS
+roslaunch realsense2_camera rs_camera.launch
+
+Etape 8 : Observer ce que la caméra renvoie
+rqt_image_view
+
+Etape 9 : Afficher le noeud de la caméra
+rosnode info /camera/realsense_camera
+
+Etape 10 : installation de RQT graph pour observer les noeuds
+http://wiki.ros.org/fr/ROS/Tutorials/UnderstandingTopics
