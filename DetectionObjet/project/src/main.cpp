@@ -1,3 +1,10 @@
+/**
+ * File:	main.cpp
+ * Description:	Main file of the project.
+ * 		Open the video stream and call the function to detect the object's shape
+ */
+
+
 /*Libraries*/
 #include <iostream>
 #include <string>
