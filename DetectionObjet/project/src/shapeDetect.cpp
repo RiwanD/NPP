@@ -1,3 +1,9 @@
+/**
+ * File:	shapeDetect.cpp
+ * Description:	Determine the shape of object in a video frame
+ */
+
+
 /*Library*/
 #include "../include/shapeDetect.h"
 
