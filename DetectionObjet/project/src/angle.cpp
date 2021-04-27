@@ -1,5 +1,5 @@
 /**
- * File:		angle.cpp
+ * File:	angle.cpp
  * Description:	Find a cosine of angle between vectors
  */
 
